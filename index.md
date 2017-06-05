@@ -169,4 +169,3 @@ d、安装一些初始化工具
 ```
 [root@controller1 ~]# yum install lrzsz ntpdate unzip wget net-tools vim -y
 ```
-> ###### 注意：不需要执行  yum update -y  操作，可能会导致部分软件的冲突
